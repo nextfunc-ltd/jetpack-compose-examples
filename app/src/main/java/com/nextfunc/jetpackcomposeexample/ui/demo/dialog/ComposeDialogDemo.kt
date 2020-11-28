@@ -1,4 +1,4 @@
-package com.nextfunc.jetpackcomposeexample.demo.ui.dialog
+package com.nextfunc.jetpackcomposeexample.ui.demo.dialog
 
 import androidx.compose.foundation.Text
 import androidx.compose.foundation.layout.Arrangement
